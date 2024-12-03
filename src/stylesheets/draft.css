@@ -5,5 +5,5 @@
     bottom: 0px;
     right: 0;
     color: white;
-    background-color: #aa2020;
+    backdrop-filter: blur(2px) sepia(100%);
 }
