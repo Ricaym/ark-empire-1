@@ -2,8 +2,11 @@
 
 Pour ouvrir le projet :
 
-- ouvrir un terminal de commandes
-- mettez vous dans le dossier dans lequel vous voulez mettre le projet : ```cd C:/Users/Admin/...```
+- Ouvrir un terminal de commandes
+- Mettre le dossier à l'endroit souhaité : ```cd C:/Users/Admin/...```
 - ```git clone https://github.com/Ricaym/ark-empire-1```
-- entrez dans le dossier git : ```cd ark-empire-1```
-- lancer le projet : ```npm run start```
+- Entrer dans le dossier git : ```cd ark-empire-1```
+
+**Bien vérifier que vous êtes sur la branche main**
+
+- Lancer le projet : ```npm run start```
