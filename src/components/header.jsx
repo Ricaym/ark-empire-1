@@ -1,11 +1,14 @@
 import '../stylesheets/header.css'
 
-function header() {
+function Header() {
 return (
-	<div className="header">
-		<title>Ark Empire</title>
+	<div>
+		Ark Empire
+		//logo
+
+		
 	</div>
 );
 }
 
-export default header;
+export default Header;
