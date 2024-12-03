@@ -1,0 +1,50 @@
+.players {
+    position: absolute;
+    width: 1216px;
+    height: 614px;
+    left: 310px;
+    top: 90px;
+    background-color: black;
+}
+
+.players > #player1, #player2, .player, #player3, #player4{
+    position: absolute;
+    width: 200px;
+    height: 500px;
+    border: 0px;
+    color: white;
+    background-color: #303030;
+    text-align: center;
+}
+
+#player1 {
+    left: 20px;
+}
+
+#player2 {
+    left: 264px;
+}
+
+.player {
+    left: calc(50% - 100px);
+}
+
+#player3 {
+    right: 264px;
+}
+
+#player4 {
+    right: 20px;
+}
+
+p {
+    padding: 10px 0 0 0;
+}
+
+.barre {
+    width: 160px;
+    height: 5px;
+    background-color: #aa2020;
+    margin-left: 20px;
+    border-radius: 5px;
+}
