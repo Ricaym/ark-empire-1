@@ -1,1 +1,0 @@
-liste_personnages = []

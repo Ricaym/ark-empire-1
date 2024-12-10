@@ -1,0 +1,9 @@
+.draft_div {
+    width: calc(100% - 310px);
+    height: 150px;
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    color: white;
+    backdrop-filter: blur(2px) sepia(100%);
+}

@@ -1,1 +1,1 @@
-liste_personnages = []
+liste_personnages = [Gripon, Quintus]

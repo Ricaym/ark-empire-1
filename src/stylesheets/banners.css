@@ -1,0 +1,76 @@
+.players {
+    position: absolute;
+    width: 1216px;
+    height: 614px;
+    left: 310px;
+    top: 90px;
+}
+
+#player1_div, #player2_div, #yourself_div, #player3_div, #player4_div{
+    position: absolute;
+    width: 200px;
+    height: 550px;
+    border: 0px;
+    color: white;
+    text-align: center;
+}
+
+#player1_card, #player2_card, #yourself_card, #player3_card, #player4_card{
+    position: absolute;
+    width: 200px;
+    height: 450px;
+    border: 0px;
+    color: white;
+    text-align: center;
+    backdrop-filter: blur(5px) sepia(50%);
+}
+
+#player1_div {
+    left: 20px;
+}
+
+#player2_div {
+    left: 264px;
+}
+
+#yourself_div {
+    left: calc(50% - 100px);
+}
+
+#player3_div {
+    right: 264px;
+}
+
+#player4_div {
+    right: 20px;
+}
+
+p {
+    padding: 10px 0 0 0;
+}
+
+.barre {
+    width: 160px;
+    height: 5px;
+    background-color: #aa2020;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+.roles {
+    z-index: 0;
+    bottom: 0;
+    width: 200px;
+    height: 60px;
+    background-color: #aa2020;
+    position: absolute;
+}
+
+.material-symbols-outlined {
+    z-index: 1;
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' -25,
+        'opsz' 24
+}
