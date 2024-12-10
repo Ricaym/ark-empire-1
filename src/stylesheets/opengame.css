@@ -1,0 +1,25 @@
+.opengame_div {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    color: white;
+}
+
+button {
+    font-size: 60px;
+    position: absolute;
+    left: calc(50% - 200px);
+    width: 400px;
+    height: 100px;
+    top: calc(50% - 50px);
+    border: 0px;
+    color: wheat;
+    background-color: #202020;
+}
+
+button:hover {
+    
+    background-color: #303030;
+}

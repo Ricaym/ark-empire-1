@@ -1,0 +1,72 @@
+body {
+    background-image: url(../assets/paper.jpg);
+    background-size: 100%;
+}
+
+#home {
+    z-index: 1;
+    position: fixed;
+    background-color: #9E8277;
+    width: 100%;
+    height: 100px;
+}
+
+#personnage {
+    color: #9F5540;
+    background-image: url(../assets/perso.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    background-color: #C49D83;
+    border: 2px solid transparent;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+}
+    #personnage:hover {
+        color: black;
+        border: 2px solid black;
+    }
+
+#shop {
+    color: #9F5540;
+    background-image: url(../assets/shop.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    background-color: #C49D83;
+    border: 2px solid transparent;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+}
+    #shop:hover {
+        color: black;
+        border: 2px solid black;
+    }
+
+#runes {
+    color: #9F5540;
+    background-image: url(../assets/runes.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    background-color: #C49D83;
+    border: 2px solid transparent;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+}
+    #runes:hover {
+        color: black;
+        border: 2px solid black;
+    }
