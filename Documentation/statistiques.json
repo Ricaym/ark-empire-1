@@ -1,0 +1,28 @@
+{
+  "damages_types": {
+    "physical_damages": "0",
+    "prismatic_damages": "0",
+    "degeneration_damages": "0"
+  },
+
+  "armors_types": {
+    "physical_armor": "0",
+    "prismatic_armor": "0",
+    "regeneration_armor": "0"
+  },
+
+  "damages_purity": {
+    "physical_purity": "0%",
+    "prismatic_purity": "0%",
+    "degeneration_purity": "0%"
+  },
+
+  "velocity": "0",
+  "regeneration": "0%",
+
+  "critical_hits": {
+    "critical_hits_chances": "0%",
+    "critical_hits_damages": "0%"
+  }
+
+}
