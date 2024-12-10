@@ -13,13 +13,13 @@ Réduction de la Bulle et de l'Armure de l'ultime : <span style=color:wheat>*-50
 <span style=color:orange>**Sort 1**</span> : Gripon lance sa canne à pêche à une distance de 15m. Si elle touche un champion ennemi, celui-ci se fait immédiatement ramené vers Gripon.
 <br><br>
 <span style=color:orange>**Sort 2**</span>
-: Gripon prends 
+: Gripon prends
 <br><br>
 <span style=color:orange>**Sort 3**</span>
-: 
+:
 <br><br>
 ><span style=color:orange>**Sort 4 - Ultimate**</span>
-: Gripon peut lancer sa canne à pêche jusqu'a une distance de 15 mètres. 
+: Gripon peut lancer sa canne à pêche jusqu'a une distance de 15 mètres.
 Si la zone de l'ultimate touche un ou plusieurs champions, Gripon envoi ses poissons de manière égale sur chaque champions touché par l'ultimate de Gripon.
 <br><br>
 Pour chaque poisson du stock de Gripon lancé sur un ennemi, le poisson immobilise et réduit l'armure et/ou la bulle des ennemis de 50% des champions adverses pendant 3 secondes + 0.25 secondes par poissons.
@@ -59,7 +59,7 @@ Réduction de la Bulle et de l'Armure de l'ultime : <span style=color:wheat>*-50
 <span style=color:orange>**Sort 3**</span> : 
 <br><br>
 ><span style=color:orange>**Sort 4 - Ultimate**</span>
-: Gripon peut lancer son filet de pêche jusqu'a une distance de 15 mètres. 
+: Gripon peut lancer son filet de pêche jusqu'a une distance de 15 mètres.
 Si la zone de l'ultimate touche un ou plusieurs champions, Gripon envoi ses poissons de manière égale sur chaque champions touché par l'ultimate de Gripon.
 <br><br>
 Pour chaque poisson du stock de Gripon lancé sur un ennemi, le poisson immobilise et réduit l'armure et/ou la bulle des ennemis de 50% des champions adverses pendant 3 secondes + 0.25 secondes par poissons.

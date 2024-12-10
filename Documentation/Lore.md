@@ -45,28 +45,41 @@ Voici la liste des différentes ligne de statistiques que vous pouvez retrouver 
     - pureté de dégénérescence
 
 - chances de coups critiques : pourcentage de chance d'infliger un pourcentage de dégats supérieur à 100%
-	- dégats des coups critique : (150% de base)
-
-
+	- dégats des coups critique : dégats infligés par les coups critique (150% de base)
 
 ### Fonctionnement des statistiques
 
+```
 Les armures réduisent les dégats subit.
 La réduction de dégats se fait par paliers.
 
-- 10 d'armure  : réduction de 10%
-- 20 d'armure: réduction de 20%
-- 50 d'armure: réduction de 33%
-- 100 d'armure: réduction de 40%
-- 150 d'armure: réduction de 50%
-- 200 d'armure: réduction de 67%
-- 300 d'armure : réduction de 75%
-- 400 d'armure : réduction de 80%
-- 600 d'armure: réduction de 90%
-- 800 d'armure: réduction de 95%
+- 10 d'armure   : réduction de 10%
+- 20 d'armure   : réduction de 20%
+- 50 d'armure   : réduction de 33%
+- 100 d'armure  : réduction de 40%
+- 150 d'armure  : réduction de 50%
+- 200 d'armure  : réduction de 67%
+- 300 d'armure  : réduction de 75%
+- 400 d'armure  : réduction de 80%
+- 600 d'armure  : réduction de 90%
+- 800 d'armure  : réduction de 95%
 - 1000 d'armure : réduction de 99%
 - Au dessus de 1000 d'armure, chaque tranches de 100 d'armure rajoute 0.1% de l'armure totale.
-<br><br>
+```
+Tableau des réductions
+armure|réduction des dégats
+-:|-:
+10|10%
+20|20%
+50|33%
+100|40%
+150|50%
+200|67%
+300|75%
+400|80%
+600|90%
+800|95%
+1000|99%
 
 <span style=color:lightblue>**EXEMPLES**</span>
 <br>
@@ -91,5 +104,9 @@ vous ne recevrez que
 <span style=color:wheat;>**3 de dégats physique**</span>
 
 # <h2 id="maps">Maps</h2>
+
+Les maps changent en fonction du mode de jeu auquel vous jouez.
+- En 2v2 vous allez vous retrouver dans l'arène du désert de Gobi.
+- En 5v5 : La carte principale du jeu, compartimentée en 4 zones. La première, 
 
 # <h2 id="rules">Regles</h2>

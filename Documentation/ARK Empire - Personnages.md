@@ -80,7 +80,7 @@ FURTIFS     | 1 - 5 | 3 - 3 |
 ]
 
 [Somme de ces deux stats = 6
-- ATTAQUE - 
+- ATTAQUE -
     1 - 100-250
     2 - 250-400
     3 - 400-550
@@ -102,7 +102,7 @@ FURTIFS     | 1 - 5 | 3 - 3 |
 
 ### Les Champions des terres du crépuscule (Le royaume tellurique)
 
-#### <span style=color:#aa00ff;font-size:40px;>**Les Champions des plaines de Zayn**</span>
+#### <span style=color:#aa00ff;font-size:20px;>**Les Champions des plaines de Zayn**</span>
 
 Gripon (chef du port de Zayn)
 Quintus (rat / humain de la ville)
