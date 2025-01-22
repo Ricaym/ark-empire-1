@@ -7,7 +7,7 @@ Guerriers du Royaume Tellurique :
     - Darioso
     - Bion ✓
     - Courtix
-Plaines
+- Plaines
     - Quintus ✓
     - Quotes
     - Esperato
