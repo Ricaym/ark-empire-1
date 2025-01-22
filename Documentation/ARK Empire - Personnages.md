@@ -1,18 +1,18 @@
 # ARK Empire - Liste des personnages -
 
-Guerriers de la terre :
+Guerriers du Royaume Tellurique :
 - Vallées
-    (G) Silanto         | 3500 - 1030 - 5 |
-    (S) Serpane         | 3500 - 1030 - 5 |
-    (E) Darioso         | 3500 - 1030 - 5 |
-    (R) Gripon          | 3500 - 1030 - 5 |
-    (F) Courtix         | 3500 - 1030 - 5 |
-- Plaines
-    (G) Walani          | 3500 - 1030 - 5 |
-    (S) Quotes          | 3500 - 1030 - 5 |
-    (E) Esperato        | 3500 - 1030 - 5 |
-    (R) Bion            | 3500 - 1030 - 5 |
-    (F) Criptone        | 3500 - 1030 - 5 |
+    - Silanto
+    - Serpane
+    - Darioso
+    - Bion ✓
+    - Courtix
+Plaines
+    - Quintus ✓
+    - Quotes
+    - Esperato
+    - Gripon ✓
+    - Criptone
 
 Guerriers des rochers :
 - Monts
