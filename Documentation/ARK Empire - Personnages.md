@@ -1,101 +1,94 @@
 # ARK Empire - Liste personnages
 
 Guerriers du Royaume Tellurique :
-- Vallées
+- Vallées du Gouron
     - Silanto
     - Serpane
     - Darioso
-    - Bion ✓
+    - Bion (tank, support) ✓
     - Courtix
-- Plaines
-    - Quintus ✓
+- Plaines de Zayn
+    - Quintus (assassin) ✓
     - Quotes
     - Esperato
-    - Gripon ✓
+    - Gripon (controleur, support) ✓
     - Criptone
 
-Guerriers des rochers :
+Guerriers de l'Empire Rocheux :
 - Monts
-    - (G) Viszigor        | 4200 - 1050 - 5 |
-    - (S) Malmount        | 3500 - 1030 - 5 |
-    - (E) Pritorma        | 2800 - 1030 - 5 |
-    - (R) Misemarx        | 2100 - 1030 - 5 |
-    - (F) Filarme         | 1400 - 1030 - 5 |
+    - Viszigor
+    - Malmount
+    - Pritorma
+    - Misemarx
+    - Filarme
 - Falaises
-    - (G) Chutarot        | 3500 - 1030 - 5 |
-    - (S) Melomina        | 3500 - 1030 - 5 |
-    - (E) Exirstir        | 3500 - 1030 - 5 |
-    - (R) Jaz             | 3500 - 1030 - 5 |
-    - (F) Lumiron         | 3500 - 1030 - 5 |
+    - Chutarot
+    - Melomina
+    - Exirstir
+    - Jaz
+    - Lumiron
 
-Guerriers des sables :
+Guerriers du Royaume Sablonneux :
 - Dunes
-        (G) Zano            | 3500 - 1030 - 5 |
-        (S) Possir          | 3500 - 1030 - 5 |
-        (E) Elifique        | 3500 - 1030 - 5 |
-        (R) Astarzen        | 3500 - 1030 - 5 |
-        (F) Zilafon         | 3500 - 1030 - 5 |
+    - Zano
+    - Possir
+    - Elifique
+    - Astarzen
+    - Zilafon
 - Déserts
-        (G) Xalion          | 3500 - 1030 - 5 |
-        (S) Pretio          | 3500 - 1030 - 5 |
-        (E) Lunix           | 3500 - 1030 - 5 |
-        (R) Ramonia         | 3500 - 1030 - 5 |
-        (F) Elarno          | 3500 - 1030 - 5 |
+    - Xalion
+    - Pretio
+    - Lunix
+    - Ramonia
+    - Elarno
 
-Guerriers des océans :
+Guerriers de l'empire Aquatique :
 - Océans
-        (G) Alunix          | 3500 - 1030 - 5 |
-        (S) Restole         | 3500 - 1030 - 5 |
-        (E) Stamino         | 3500 - 1030 - 5 |
-        (R) Mirabo          | 3500 - 1030 - 5 |
-        (F) Folex           | 3500 - 1030 - 5 |
+    - Alunix
+    - Restole
+    - Stamino
+    - Mirabo
+    - Folex
 - Profondeurs
-        (G) Platon          | 3500 - 1030 - 5 |
-        (S) Herkan          | 3500 - 1030 - 5 |
-        (E) Poss            | 3500 - 1030 - 5 |
-        (R) Pradrigon       | 3500 - 1030 - 5 |
-        (F) Florime         | 3500 - 1030 - 5 |
+    - Platon
+    - Herkan
+    - Poss
+    - Pradrigon
+    - Florime
 
 
-EPAISSEURS  | 5 - 1 | 5 - 1 |
-GUERRIERS   | 4 - 2 | 4 - 2 |
-MAGICAUX    | 3 - 3 | 2 - 4 |
-CONTROLEURS | 2 - 4 | 1 - 5 |
-FURTIFS     | 1 - 5 | 3 - 3 |
+tanks       | 5 - 1 | 5 - 1 |
+guerriers   | 4 - 2 | 4 - 2 |
+mages       | 3 - 3 | 2 - 4 |
+controleurs | 2 - 4 | 1 - 5 |
+assassins   | 1 - 5 | 3 - 3 |
 
-[Somme de ces deux stats = 6
 - PV -
     1 -  700-1400
     2 - 1400-2100
     3 - 2100-2800
     4 - 2800-3500
     5 - 3500-4200
-    
 - VITESSE -
     1 -  5-10
     2 - 10-15
     3 - 15-20
     4 - 20-25
     5 - 25-30
-]
-
-[Somme de ces deux stats = 6
 - ATTAQUE - 
     1 - 100-250
     2 - 250-400
     3 - 400-550
     4 - 550-700
     5 - 700-850
-
 - CONTROLES -
     1 - 0
     2 - 0.5
     3 - 1
     4 - 2
     5 - 4
-]
 
-1. 3M 3F | 1D 1D | 0V 1P | 1O 0P = 10 (montagnes)
+1. 3M 3F | 1D 1D | 0V 1P | 1O 0P = 10 (roches)
 2. 1M 0F | 3D 3D | 1V 1P | 0O 1P = 10 (déserts)
 3. 0M 1F | 1D 0D | 3V 3P | 1O 1P = 10 (terres)
 4. 1M 1F | 0D 1D | 1V 0P | 3O 3P = 10 (océans)
@@ -105,7 +98,7 @@ FURTIFS     | 1 - 5 | 3 - 3 |
 #### <span style=color:#aa00ff;font-size:40px;>**Les Champions des plaines de Zayn**</span>
 
 Gripon (chef du port de Zayn)
-Quintus (rat / humain de la ville)
+Quintus (rat de ville)
 
 #### Les Champions de la vallée du Gouron
 
