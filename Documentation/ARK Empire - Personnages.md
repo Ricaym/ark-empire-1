@@ -1,4 +1,4 @@
-# ARK Empire - Liste des personnages -
+# ARK Empire - Liste personnages
 
 Guerriers du Royaume Tellurique :
 - Vallées
