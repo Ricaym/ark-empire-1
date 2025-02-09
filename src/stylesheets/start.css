@@ -1,8 +1,8 @@
 * {
     color: white;
-    font-family: monospace;
     font-size: 30px;
     text-align: center;
+    
 }
 
 a div {
@@ -17,7 +17,7 @@ a div {
     font-size: 150px;
     font-weight: 900;
     position: absolute;
-    width: 1000px;
+    width: 100px;
     margin: 0px 0px 0px -500px;
     top: 5%;
     left: 50%;

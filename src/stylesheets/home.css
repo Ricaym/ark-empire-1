@@ -1,67 +1,38 @@
-#home {
-    z-index: 1;
-    position: fixed;
-    background-color: #9E8277;
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    background-color: #C76161;
     width: 100%;
     height: 100px;
 }
 
-#personnage {
-    color: #9F5540;
-    background-image: url(../assets/perso.png);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: 0px;
-    text-align: center;
-    position: relative;
-    display: inline-block;
-    background-color: #C49D83;
-    border: 2px solid transparent;
-    width: 200px;
-    height: 300px;
-    margin: 10px;
+img {
+    width: 80px;
+    height: 80px;
+    margin: 0;
 }
-    #personnage:hover {
-        color: black;
-        border: 2px solid black;
-    }
 
-#shop {
-    color: #9F5540;
-    background-image: url(../assets/shop.png);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: 0px;
-    text-align: center;
-    position: relative;
-    display: inline-block;
-    background-color: #C49D83;
-    border: 2px solid transparent;
+p {
     width: 200px;
-    height: 300px;
-    margin: 10px;
+    height: 80px;
 }
-    #shop:hover {
-        color: black;
-        border: 2px solid black;
-    }
 
-#runes {
-    color: #9F5540;
-    background-image: url(../assets/runes.png);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: 0px;
-    text-align: center;
-    position: relative;
-    display: inline-block;
-    background-color: #C49D83;
-    border: 2px solid transparent;
-    width: 200px;
-    height: 300px;
-    margin: 10px;
+#pages {
+    color: white;
+    height: 80px;
+    width: auto;
 }
-    #runes:hover {
-        color: black;
-        border: 2px solid black;
-    }
+
+a {
+    color: white;
+    height: 80px;
+    width: 100px;
+    text-decoration: none;
+}
+
+#account {
+    width: auto;
+    justify-self: end;
+}

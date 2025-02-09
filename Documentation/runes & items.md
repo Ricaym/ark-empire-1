@@ -9,7 +9,7 @@ Il existe 4 types de runes :
     - Les runes élémentaires sont réservées aux personnages de mélée infligeants des dégats physique.
     - Le joueur doit en sélectionner 7 parmis 36 (9 par terrains : 9 sabloneuses, 9 rocheuses, 9 telluriques et 9 aquatiques).
 
-- **Les Runes magiques (mages)**
+- **Les Runes prismatique (mages)**
     - Les runes magiques sont réservées aux mages, personnages à distance infligeants des dégats magique.
     - Le joueur doit en sélectionner 7 parmis 20.
 

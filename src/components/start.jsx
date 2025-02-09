@@ -6,7 +6,7 @@ export default function Start({logo}) {
         <div>
             <a href="/loading"><div></div></a>
             <img src={logo} alt='' id='logo'/>
-            <p id='start'>appuyer pour commencer</p>
+            <p id='start'>Appuyer pour commencer</p>
         </div>
     );
 }

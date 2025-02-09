@@ -3,10 +3,16 @@ import "../stylesheets/home.css";
 
 export default function Home() {
     return (
-        <div id="home">
-            <a href="/personnages"><div id="personnage">Personnages</div></a>
-            <a href="/shop"><div id="shop">Boutique</div></a>
-            <a href="/runes"><div id="runes">Runes</div></a>
+        <div id="navbar">
+            <img src="./assets/logoA.png" alt="logo"/>
+            <p>Ark Empire</p>
+            <div id="pages">
+                <a href="/personnages">Personnages</a>
+                <a href="/shop">Boutique</a>
+                <a href="/runes">Jeu</a>
+                <a href="/runes">Télécharger</a>
+            </div>
+            <a id="account" href="/account">Mon Compte</a>
         </div>
     );
 }
