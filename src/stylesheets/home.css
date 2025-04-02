@@ -1,6 +1,6 @@
 #navbar {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-direction: row;
     align-items: center;
     background-color: #C76161;
@@ -12,6 +12,7 @@ img {
     width: 80px;
     height: 80px;
     margin: 0;
+    padding: 0 10px 0 10px;
 }
 
 p {
@@ -23,6 +24,7 @@ p {
     color: white;
     height: 80px;
     width: auto;
+    
 }
 
 a {
@@ -35,4 +37,5 @@ a {
 #account {
     width: auto;
     justify-self: end;
+    padding: 0 10px 0 10px;
 }

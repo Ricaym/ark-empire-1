@@ -1,21 +1,18 @@
-import './App.css';
-import Start from "./components/start";
-import Loading from "./components/loading";
-import Home from "./components/home";
-import logo from "./assets/logo.png"
+import Rules from "./components/Rules";
+import Home from "./components/Home";
 
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
 
 const router = createBrowserRouter([
     {
         path: '/',
-        element: <Start logo={logo}/>
+        element: <Home/>
     },
     {
-        path: '/loading',
+        path: '/rules',
         element:
             <div>
-                <Loading/>
+                <Rules/>
             </div>
     },
     {

@@ -9,8 +9,8 @@ export default function Home() {
             <div id="pages">
                 <a href="/personnages">Personnages</a>
                 <a href="/shop">Boutique</a>
-                <a href="/runes">Jeu</a>
-                <a href="/runes">Télécharger</a>
+                <a href="/rules">Jeu</a>
+                <a href="/download">Télécharger</a>
             </div>
             <a id="account" href="/account">Mon Compte</a>
         </div>

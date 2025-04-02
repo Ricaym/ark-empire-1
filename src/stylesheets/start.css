@@ -2,7 +2,10 @@
     color: white;
     font-size: 30px;
     text-align: center;
-    
+}
+
+body {
+    background-image: url(/src/assets/paper.jpg);
 }
 
 a div {
