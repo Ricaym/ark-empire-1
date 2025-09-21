@@ -5,7 +5,7 @@ Guerriers de la terre :
     (G) Silanto         | 3500 - 1030 - 5 |
     (S) Serpane         | 3500 - 1030 - 5 |
     (E) Darioso         | 3500 - 1030 - 5 |
-    (R) Gripon          | 3500 - 1030 - 5 |
+    (R) Gripon          | 3500 - 1030 - 5 | - Chef du port de Zaine
     (F) Courtix         | 3500 - 1030 - 5 |
 - Plaines
     (G) Walani          | 3500 - 1030 - 5 |
