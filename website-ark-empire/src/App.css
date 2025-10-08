@@ -1,9 +1,8 @@
 * {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: large;
-  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
 }
 
 body {
-  background-image: url(./assets/background.jpg);
+  background-image: url(./assets/destiny.jpg);
 }
