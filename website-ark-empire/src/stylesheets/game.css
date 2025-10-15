@@ -1,28 +1,76 @@
 .game_div {
-    width: calc(100% - 20px);
+    /* z-index: 10; */
+    width: calc(100% - 800px);
     height: calc(100% - 90px);
     display: flex;
+    flex-direction: column;
     position: absolute;
     align-items: center;
     justify-content: space-between;
-    left: 10px;
+    left: 400px;
     top: 80px;
-    backdrop-filter: blur(5px);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    /* backdrop-filter: blur(5px); */
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); */
     border-radius: 20px;
 }
 
-.character_aatrox {
-    width: 200px;
-    height: 300px;
+.ark {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    overflow-y: auto;
+}
+
+.ark > div {
+    width: 300px;
+    height: 400px;
     background-color: transparent;
     border-radius: 20px;
     margin: 20px;
     display: flex;
-    align-items: center;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
     color: black;
-    text-align: center;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    background-image: url(../assets/aatrox.avif);
     background-size: 140%;
+    background-position: center;
+}
+.ark > div:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    -webkit-transition: 0.15s ease-in-out;
+    transition: 0.15s ease-in-out;
+}
+
+.ark > div > p {
+    color: wheat;
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    border-radius: 0% 0% 20px 20px;
+}
+
+/* Character backgrounds */
+.silanto {
+    background-image: url(../assets/aatrox.avif);
+}
+.serpane {
+    background-image: url(../assets/ahri.avif);
+}
+.darioso {
+    background-image: url(../assets/akali.jpg);
+}
+.bion {
+    background-image: url(../assets/akshan.jpg);
+}
+.roza {
+    background-image: url(../assets/alistar.jpg);
 }

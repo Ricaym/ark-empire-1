@@ -6,7 +6,7 @@ export const LanguageContext = createContext();
 
 const translations = {
   'en-US': enUS,
-  'fr-FR': frFR,
+  'fr-FR': frFR
 };
 
 export function LanguageProvider({ children }) {

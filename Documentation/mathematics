@@ -1,0 +1,5 @@
+La fonction des dégâts subis en fonction de l'armure peut se représenter ainsi
+
+Dégâts reçus = Dégâts infligés * (100 / 100 + Armure du champion)
+
+Si le champion à 50 d'armure est que je lui mets un coup avec 100 de dégâts physique, il recevra 67 de dégâts.

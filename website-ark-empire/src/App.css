@@ -6,6 +6,7 @@
 body {
   background-image: url(./assets/destiny.jpg);
   font-family: 'MaPolicePerso';
+  background-attachment: fixed;
 }
 
 @font-face {

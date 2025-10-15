@@ -8,8 +8,6 @@ function Header() {
 	return (
 		<div>
 			<div className="header_div">
-			<img src="../assets/logo.png" alt="Ark Empire" />
-
 				<div className="menu_div">
 					<div className="menu_header">
 						<a href="/">{t['home']}</a>
