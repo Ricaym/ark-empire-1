@@ -1,9 +1,12 @@
 {
-    "home": "Home",
-    "the_game": "The Game",
-    "about": "About",
-    "contact": "Contact",
-    "search_game": "Search for a game",
-    "mode": "Mode",
-    "competitive": "Competitive"
+    "home": "HOME",
+    "the_game": "THE GAME",
+    "about": "ABOUT",
+    "contact": "CONTACT",
+    "search_game": "SEARCH FOR A GAME",
+    "mode": "MODE",
+    "competitive": "COMPETITIVE",
+    "settings": "PARAMETERS",
+    "account": "MY ACCOUNT",
+    "language": "LANGUAGE"
 }

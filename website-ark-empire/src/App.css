@@ -1,8 +1,14 @@
 * {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 20px;
+  font-family: 'MaPolicePerso';
 }
 
 body {
   background-image: url(./assets/destiny.jpg);
+  font-family: 'MaPolicePerso';
+}
+
+@font-face {
+  font-family: 'MaPolicePerso';
+  src: url('./fonts/japan-wave.ttf') format('opentype');
 }

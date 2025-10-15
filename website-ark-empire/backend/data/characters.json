@@ -1,0 +1,18 @@
+[
+  {
+    "name": "azeze",
+    "class": "Mage",
+    "hp": 1200,
+    "attack": 150,
+    "photo": "https://tonsite.com/images/astra.png",
+    "description": "Mage cosmique capable de manipuler la gravité."
+  },
+  {
+    "name": "Darius",
+    "class": "Guerrier",
+    "hp": 1800,
+    "attack": 200,
+    "photo": "https://tonsite.com/images/darius.png",
+    "description": "Guerrier sanguinaire maniant une grande hache."
+  }
+]

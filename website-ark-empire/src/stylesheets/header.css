@@ -1,7 +1,7 @@
 .header_div {
 	width: 800px;
 	height: 60px;
-	backdrop-filter: blur(10px);
+	backdrop-filter: blur(5px);
 	position: fixed;
 	top: 10px;
 	left: 50%;
@@ -64,25 +64,4 @@ a::after {
 .menu_header a:hover::after,
 .menu_header a:focus::after{
 	transform: translate3d(0, 0, 0);
-}
-
-select {
-	width: 65px;
-	height: 60px;
-	backdrop-filter: blur(10px);
-	background-color: transparent;
-	position: fixed;
-	top: 10px;
-	right: 10px;
-	padding: 0px 10px;
-	border-radius: 20px;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-	border: none;
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-}
-
-select::picker {
-	background-color: black;
 }

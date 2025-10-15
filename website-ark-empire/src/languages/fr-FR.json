@@ -1,9 +1,14 @@
 {
-    "home": "Accueil",
-    "the_game": "Le Jeu",
-    "about": "A propos",
-    "contact": "Contact",
-    "search_game": "Rechercher une partie",
-    "mode": "Mode",
-    "competitive": "Compétitif"
+    "home": "ACCUEIL",
+    "the_game": "LE JEU",
+    "about": "A PROPOS",
+    "contact": "CONTACT",
+    "search_game": "TROUVER UNE PARTIE",
+    "mode": "MODE",
+    "competitive": "COMPETITIF",
+    "settings": "PARAMETRES",
+    "account": "MON COMPTE",
+    "language": "LANGUE",
+    "game_title": "ARK EMPIRE",
+    "game_description": "Le jeu de stratégie en temps réel gratuit"
 }

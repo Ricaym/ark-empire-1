@@ -7,8 +7,8 @@ function Play() {
 
 	return (
 		<div className="play_div">
-		<button id="play_button">{t['search_game']}</button>
-		<button id="mode_button">Mode : 5v5 {t['competitive']}</button>
+			<button id="play_button">{t['search_game']}</button>
+			<button id="mode_button">{t['mode']} : 5v5 {t['competitive']}</button>
 		</div>
 	);
 }
