@@ -6,7 +6,6 @@ import Header from './components/header'
 import Play from './components/play'
 import Settings from './components/settings'
 import Game from './components/game'
-import Logo from './components/logo'
 
 const router = createBrowserRouter([
 	{
@@ -14,7 +13,6 @@ const router = createBrowserRouter([
 		element:
 			<div className="App">
 				<LanguageProvider>
-					<Logo/>
 					<Header/>
 					<Settings/>
 				</LanguageProvider>
