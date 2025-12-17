@@ -26,7 +26,6 @@ const router = createBrowserRouter([
 				<LanguageProvider>
 					<Header/>
 					<Game/>
-					<Settings/>
 				</LanguageProvider>
 			</div>
 	},
@@ -37,7 +36,6 @@ const router = createBrowserRouter([
 				<LanguageProvider>
 					<Header/>
 					<Play/>
-					<Settings/>
 				</LanguageProvider>
 			</div>
 	},
@@ -48,7 +46,6 @@ const router = createBrowserRouter([
 				<LanguageProvider>
 					<Header/>
 					<Play/>
-					<Settings/>
 				</LanguageProvider>
 			</div>
 	},
