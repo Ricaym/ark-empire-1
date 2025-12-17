@@ -1,21 +1,15 @@
-import express from "express";
-import dotenv from "dotenv";
-import cors from "cors";
-// import connectDB from "./config/db.js";
-import charactersRoutes from "./routes/characters.js";
-import characterRoutes from "./models/Character.js";
+require('dotenv').config();
+const express = require('express');
+const cors = require('cors');
 
-dotenv.config();
-// connectDB();
+const characterRoutes = require('./routes/character.routes');
 
 const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.use("/characters", charactersRoutes);
+app.use('/api/characters', characterRoutes);
 
-app.use("/character", characterRoutes);
-
-app.listen(process.env.PORT, () => {
-  console.log(`🚀 Server running on port ${process.env.PORT}`);
+app.listen(3001, () => {
+  console.log('Backend lancé sur http://localhost:3001');
 });

@@ -6,6 +6,7 @@ import Header from './components/header'
 import Play from './components/play'
 import Settings from './components/settings'
 import Game from './components/game'
+import CharacterList from './components/CharacterList';
 
 const router = createBrowserRouter([
 	{
@@ -14,6 +15,7 @@ const router = createBrowserRouter([
 			<div className="App">
 				<LanguageProvider>
 					<Header/>
+					<CharacterList/>
 					<Settings/>
 				</LanguageProvider>
 			</div>

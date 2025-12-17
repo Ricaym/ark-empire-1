@@ -1,16 +1,13 @@
-import mongoose from "mongoose";
+const oracledb = require('oracledb');
 
-const connectDB = async () => {
-  try {
-    await mongoose.connect(process.env.MONGO_URI, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true
-    });
-    console.log("✅ MongoDB connected");
-  } catch (error) {
-    console.error("❌ MongoDB connection failed:", error.message);
-    process.exit(1);
-  }
-};
+oracledb.outFormat = oracledb.OUT_FORMAT_OBJECT;
 
-export default connectDB;
+async function getConnection() {
+  return await oracledb.getConnection({
+    user: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
+    connectString: process.env.DB_CONNECT
+  });
+}
+
+module.exports = { getConnection };
