@@ -11,6 +11,7 @@ function Game() {
 
 			<div className='ark'>
 				<div className='silanto'>
+					<a href="/silanto">Silanto</a>
 					<p>{t['silanto']}Silanto</p>
 				</div>
 
