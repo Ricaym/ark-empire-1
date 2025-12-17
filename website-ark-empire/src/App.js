@@ -15,7 +15,6 @@ const router = createBrowserRouter([
 			<div className="App">
 				<LanguageProvider>
 					<Header/>
-					<CharacterList/>
 					<Settings/>
 				</LanguageProvider>
 			</div>
@@ -59,9 +58,15 @@ const router = createBrowserRouter([
 			<div className="App">
 				<LanguageProvider>
 					<Header/>
-					<Play/>
 					<Settings/>
 				</LanguageProvider>
+			</div>
+	},
+	{
+		path: '/characters',
+		element:
+			<div className="App">
+				<CharacterList/>
 			</div>
 	}
 ])

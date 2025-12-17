@@ -22,13 +22,6 @@ function Header() {
 				</div>
 				<div className="params_div">
 					<p>{t['settings']}</p>
-					<p>{t['settings']}</p>
-					<p>{t['settings']}</p>
-					<p>{t['settings']}</p>
-					<p>{t['settings']}</p>
-					<p>{t['settings']}</p>
-					<p>{t['settings']}</p>
-					<p>{t['settings']}</p>
 				</div>
 			</div>
 		</div>
