@@ -1,0 +1,26 @@
+[
+  {
+    "id": "silanto",
+    "name": "Silanto",
+    "route": "",
+    "image": "../assets/characters/akali.jpg"
+  },
+  {
+    "id": "serpane",
+    "name": "Serpane",
+    "route": null,
+    "image": "../assets/characters/akshan.jpg"
+  },
+  {
+    "id": "darioso",
+    "name": "Darioso",
+    "route": null,
+    "image": "../assets/characters/alistar.jpg"
+  },
+  {
+    "id": "dzadz",
+    "name": "Bion",
+    "route": null,
+    "image": "../assets/characters/aatrox.png"
+  }
+]
