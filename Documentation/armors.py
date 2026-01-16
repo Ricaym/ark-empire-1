@@ -9,5 +9,3 @@ print(f"La fonction est la suivante : Dégâts subis = Dégâts infligés * 100 
 print(f"La fonction est la suivante : Dégâts subis = {Di} * (100 / (100 + {A}))")
 print(f"Dégâts subis = {Ds} au lieu de {Di}")
 print(f"Une armure de {A} représente donc une réduction de dégâts de : {R}%")
-
-
